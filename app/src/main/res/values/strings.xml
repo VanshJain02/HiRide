@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HiRide</string>
+    <string name="default_web_client_id">ok</string>
+    <string name="title_activity_maps">ok</string>
+    <string name="google_maps_key">AIzaSyAOg7p2AsLZo3qHNP3mMeOU4JaqO7toF1g</string>
+
+</resources>
